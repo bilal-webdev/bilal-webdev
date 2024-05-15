@@ -11,7 +11,7 @@
 <h2> Who Am I  ? 🕵️‍♂️</h2>
 <p>Hi, I'm Bilal Shaikh, a B.Tech holder in Computer Science with a passion for developing scalable and challenging applications. With over two years of experience in software development, I bring a wealth of knowledge in industry standards and the rapid adoption of emerging technologies.
 
-My journey in software development has involved crafting complex database architectures and implementing sustainable backend systems. Additionally, my expertise extends to Blockchain, Smart Contracts, Tokens, and NFTs, where I've gained invaluable insights and hands-on experience.
+My journey in software development has involved crafting complex database architectures and implementing sustainable frontend as well as backend systems. Additionally, my expertise extends to Blockchain, Smart Contracts, Tokens, and NFTs, where I've gained invaluable insights and hands-on experience.
 
 With each project, my experience grows, allowing me to tackle increasingly sophisticated challenges with confidence and proficiency.
 
